@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=../schema.json
+# yaml-language-server: $schema=../../../../schema.json
 locale:
   language: da
   month: "måned"
@@ -8,9 +8,9 @@ locale:
   present: "nuværende"
   to: "–"
   phone_number_format: "national"
-  page_numbering_template: "NAVN - Side SIDENUMMER af TOTALE_SIDER"
-  last_updated_date_template: "Sidst opdateret den I_DAG"
-  date_template: "MÅNEDSFORKORTELSE ÅR"
+  page_numbering_template: "NAME - Side PAGE_NUMBER af TOTAL_PAGES"
+  last_updated_date_template: "Sidst opdateret den TODAY"
+  date_template: "MONTH_ABBREVIATION YEAR"
   abbreviations_for_months:
     - "jan"
     - "feb"
